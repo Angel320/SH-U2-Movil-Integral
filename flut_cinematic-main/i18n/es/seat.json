@@ -1,0 +1,11 @@
+{
+    "seats": {
+        "one": "Asiento",
+        "other": "Asientos"
+    },
+    "selected": "Seleccionado",
+    "available": "Disponible",
+    "notAvailable": "No disponible",
+    "bookTickets": "Reservar boletos {{money}}",
+    "chooseSeats": "Elegir asientos"
+}
